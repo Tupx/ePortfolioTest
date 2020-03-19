@@ -2,9 +2,10 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>TEST</title>
+    <title>XD</title>
   </head>
   <body>
-    <h1>This is a test</h1>
+    <h1>THIS WORKS ON PHP GREAT</h1>
+
   </body>
 </html>
